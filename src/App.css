@@ -1,0 +1,41 @@
+body{
+  margin: 2vw 4vw 2vw 4vw;
+}
+
+.App {
+  text-align: center;
+}
+
+button{
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 16px;
+  padding: 10px 20px 10px 20px;
+  margin: 3vw;
+  text-decoration: none;
+}
+.useState{
+  background-color: rgb(252, 203, 203);
+}
+.useMemo{
+  background-color: rgb(114, 246, 246);
+}
+.useEffect{
+  background-color: burlywood;
+}
+.useReducer{
+  background-color: rgb(255, 148, 72);
+}
+.Axios{
+  background-color: rgba(137, 255, 137, 0.92);
+  padding: 2vw;
+}
