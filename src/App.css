@@ -24,18 +24,18 @@ button{
   text-decoration: none;
 }
 .useState{
-  background-color: rgb(252, 203, 203);
+  background-color: rgb(163, 163, 163);
 }
 .useMemo{
-  background-color: rgb(114, 246, 246);
+  background-color: rgb(193, 193, 193);
 }
 .useEffect{
-  background-color: burlywood;
+  background-color: rgb(172, 172, 172);
 }
 .useReducer{
-  background-color: rgb(255, 148, 72);
+  background-color: rgb(175, 175, 175);
 }
 .Axios{
-  background-color: rgba(137, 255, 137, 0.92);
+  background-color: rgba(132, 132, 132, 0.92);
   padding: 2vw;
 }
